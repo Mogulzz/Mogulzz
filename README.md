@@ -7,7 +7,7 @@ I'm a Cyber-Security student, mostly interested in Cyber Threat Intelligence and
 
 <p align = "center">
     <a href="https://tryhackme.com/p/Mogulzzz">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Mogulzzz.png">
+         <img src="https://tryhackme-badges.s3.amazonaws.com/Mogulzzz.png" alt="TryHackMe">
     </a>
 </p>
 

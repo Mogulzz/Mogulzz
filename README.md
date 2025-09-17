@@ -1,15 +1,27 @@
-<h1 align="center">Hello there, </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/> 
 
-## whoami:
-I'm a Cyber-Security student, mostly interested in Cyber Threat Intelligence and Offensive Security  
+```yaml
+name: Mogulzz
+current_job: SOC Analyst
+education:
+  [
+    "Master's in Artificial intelligence and Cybersecurity",
+  ]
 
-### Main skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,bash,regex,github,git,powershell,notion,md)](https://skillicons.dev)
-
-### Skills that are currently learning
-
-[![New Skills](https://skillicons.dev/icons?i=docker,rust,go)](https://skillicons.dev)
+fields_of_interests:
+  [
+    "CyberSecurity",
+    "Threat Hunting",
+    "Detection engineering",
+    "Offensive sec
+  ]
+technical_background:
+  [
+    "Cyber Threat Intelligence Analyst"
+  ]
+currently_learning: ["Docker", "Rust", "Go"]
+future_goals: ["Maintaining a github repository based on detection rules"]
+```
 
 ### OS Used
 

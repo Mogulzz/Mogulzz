@@ -25,4 +25,4 @@ currently_learning: ["Docker", "Rust", "Go"]
 future_goals: ["Maintaining a github repository based on detection rules"]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=100&section=footer"/>

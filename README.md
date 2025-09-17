@@ -25,14 +25,6 @@ currently_learning: ["Docker", "Rust", "Go"]
 future_goals: ["Maintaining a github repository based on detection rules"]
 ```
 
-## GitHub Stats:
-
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mogulzz&show_icons=true&theme=tokyonight">
-</p>
-
-## Favorite Languages:
-
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mogulzz&show_icons=true&theme=tokyonight">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=100&section=footer"/>
 </p>

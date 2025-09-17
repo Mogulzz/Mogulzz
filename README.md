@@ -3,15 +3,15 @@
 ## whoami:
 I'm a Cyber-Security student, mostly interested in Cyber Threat Intelligence and Offensive Security  
 
-## Main skills
+### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,powershell,notion,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,regex,github,git,powershell,notion,md)](https://skillicons.dev)
 
-## Skills that are currently learning
+### Skills that are currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+[![New Skills](https://skillicons.dev/icons?i=docker,rust,go)](https://skillicons.dev)
 
-## OS Used
+### OS Used
 
 [![OS Used](https://skillicons.dev/icons?i=kali,windows,linux,raspberrypi)](https://skillicons.dev)
 
